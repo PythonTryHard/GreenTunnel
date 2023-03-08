@@ -47,7 +47,7 @@ Options:
   --dns-port      Port for unencrypted DNS                [number] [default: 53]
   --silent, -s    run in silent mode                  [boolean] [default: false]
   --verbose, -v   debug mode                              [string] [default: ""]
-  --system-proxy  automatic set system-proxy           [boolean] [default: true]
+  --system-proxy  automatic set system-proxy          [boolean] [default: false]
 
 Examples:
   gt
