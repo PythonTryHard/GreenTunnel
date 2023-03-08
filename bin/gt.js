@@ -73,7 +73,7 @@ const { argv } = yargs
 	.option('system-proxy', {
 		type: 'boolean',
 		describe: 'automatic set system-proxy',
-		default: true,
+		default: false,
 	})
 
 	.example('$0')
